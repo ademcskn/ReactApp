@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": "unaiqid-1",
+            "name": "Adem Coşkun",
+            "salary": "10",
+            "department":"Bilişim"
+
+        } 
+    ]
+}
